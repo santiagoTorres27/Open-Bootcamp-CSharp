@@ -1,0 +1,15 @@
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\bin\Debug\net6.0\Sesion3.exe
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\bin\Debug\net6.0\Sesion3.deps.json
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\bin\Debug\net6.0\Sesion3.runtimeconfig.json
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\bin\Debug\net6.0\Sesion3.dll
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\bin\Debug\net6.0\Sesion3.pdb
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\obj\Debug\net6.0\Sesion3.csproj.AssemblyReference.cache
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\obj\Debug\net6.0\Sesion3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\obj\Debug\net6.0\Sesion3.AssemblyInfoInputs.cache
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\obj\Debug\net6.0\Sesion3.AssemblyInfo.cs
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\obj\Debug\net6.0\Sesion3.csproj.CoreCompileInputs.cache
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\obj\Debug\net6.0\Sesion3.dll
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\obj\Debug\net6.0\refint\Sesion3.dll
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\obj\Debug\net6.0\Sesion3.pdb
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\obj\Debug\net6.0\Sesion3.genruntimeconfig.cache
+D:\OpenBootcamp\Ejercicios\Sesion3\Sesion3\obj\Debug\net6.0\ref\Sesion3.dll
